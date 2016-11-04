@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+
+<students>
+    <human>
+        <firstName>Tobias</firstName>
+        <lastName>Straub</lastName>
+        <matrikelNumber>123456</matrikelNumber>
+    </human>
+    <human>
+        <firstName>Sheldon Lee</firstName>
+        <lastName>Cooper</lastName>
+        <matrikelNumber>654321</matrikelNumber>
+    </human>
+    <human>
+        <firstName>Lenoard Leakey</firstName>
+        <lastName>Hofstadter</lastName>
+        <matrikelNumber>837485</matrikelNumber>
+    </human>
+    <human>
+        <firstName>Penny</firstName>
+        <lastName>Keine Ahnung</lastName>
+        <matrikelNumber>264305</matrikelNumber>
+    </human>
+</students>
+

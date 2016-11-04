@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT students (human*)>
+<!ELEMENT human (firstName, lastName, matrikelNumber)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT matrikelNumber (#PCDATA)>
